@@ -1,6 +1,6 @@
 # Expresiones Regulares
 
-## Nom i cognoms
+## Ferran Gotarra Sanchez
 
 ## Tratamiento de ficheros de notas
 
